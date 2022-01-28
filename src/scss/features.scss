@@ -1,0 +1,24 @@
+@import './var';
+
+.feature-img {
+  width: 4rem !important;
+  height: 4rem !important;
+}
+
+.bg-remove {
+  background: none !important;
+  border: none !important;
+}
+
+.features__section {
+  margin-top: 43.4rem;
+  height: 45rem;
+}
+
+.feature-title {
+  color: $secondaryColor;
+}
+.feature-disc {
+  color: $discriptonColor;
+  font-size: 0.8em;
+}

@@ -1,0 +1,36 @@
+.hero__bg {
+  background: url(../assets/Group-1.svg) top no-repeat;
+  right: 0rem;
+  left: 1rem;
+  top: 0;
+  height: 43.4rem;
+  position: absolute;
+  z-index: 0 !important;
+}
+
+.marg {
+  margin-top: 6rem;
+}
+
+.hero-btn {
+  background-color: #e67e22 !important;
+  color: #fff !important;
+  border: none !important;
+  border-radius: 0.9rem !important;
+  padding: 0.7rem 1.5rem !important;
+  margin-top: 2rem;
+  z-index: 999;
+  font-size: 18px !important;
+  &:hover {
+    background: #925015 !important;
+    color: #fff !important;
+  }
+}
+
+.hero-span {
+  color: #e67e22;
+}
+
+.hero-desc {
+  font-size: 0.85em !important;
+}
